@@ -8,7 +8,7 @@ Meer informatie:
 * Prisma: https://www.prisma.io/
 
 
-## Installatie instructies
+## Installatie instructie
 
 1. Ga naar de api folder
 
